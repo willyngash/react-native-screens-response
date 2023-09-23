@@ -1,0 +1,10 @@
+// @flow
+
+declare export function widthPercentageToDP(
+  widthPercent: string | number
+): number;
+
+declare export function heightPercentageToDP(
+  heightPercent: string | number
+): number;
+

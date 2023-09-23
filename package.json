@@ -1,0 +1,35 @@
+{
+  "name": "react-native-screens-response",
+  "version": "1.0.0",
+  "description": "Make React Native views responsive for all devices with the use of 2 simple methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "willyngash: registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyngash/react-native-screens-response.git"
+  },
+  "keywords": [
+    "react-native",
+    "responsive-ui",
+    "responsive-view",
+    "responsive-screen",
+    "responsive"
+  ],
+  "author": "Willy Wainaina Ng'ang'a <willynganga001@gmail.com> (https://github.com/willyngash)",
+  "contributors": [
+    "Willy Wainaina Ng'ang'a <willynganga001@gmail.com> (https://github.com/willyngash)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willyngash/react-native-screens-response/issues"
+  },
+  "homepage": "https://github.com/willyngash/react-native-screens-response/blob/main/README.md",
+  "peerDependencies": {
+    "react-native": ">=0.66"
+  }
+}
